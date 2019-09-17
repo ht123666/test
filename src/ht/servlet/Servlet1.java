@@ -17,7 +17,8 @@ public class Servlet1 extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("进入servlet1:index.jsp");
-		System.out.println("333");
+		System.out.println("222");
+		System.out.println("111");
 	}
 
 }

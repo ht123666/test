@@ -32,6 +32,7 @@ public class Servlet4 extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("进入servlet4:/");
+		System.out.println("11111");
 	}
 
 }
